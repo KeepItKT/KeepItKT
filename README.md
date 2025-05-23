@@ -3,19 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kota, I code stuff in my free time </div>  
-  
 
-- 🔭 I’m currently working on [Kahoot Flooder](https://github.com/KeepItKT/Kahoot-Flooder-Breaker)  
-  
-
-- 🌱 I’m currently learning German  
-  
-
-- ❓ Ask me about anything  
-  
-
-- ⚡ Fun fact: I'm not very smart  
   
 
 <br/>  
